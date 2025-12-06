@@ -1,58 +1,77 @@
-# Tableau-Projects
-Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.
+1. Amazon Shipping Analytics Dashboard
 
-  <pre>
-  1. Amazon Shipping Analytics    
-  2. Tesla Stock Price            
-  3. UT Mart Sales Analytics            
-  </pre>
+Objective:
+Analyze Amazon order shipments to track delivery performance, customer behavior, and logistics efficiency.
 
-View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
-https://public.tableau.com/profile/utkarsh.yadav6297#!/
+Key Highlights:
 
+Shipment status tracking (Delivered, In Transit, Canceled)
 
+Delivery time analysis & delay patterns
 
-## Screenshots
+Top cities & states by order volume
 
-### 1. Amazon Shipping Analytics Dashboard
+Carrier performance comparison
 
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
+KPIs like Average Delivery Time, On-Time Delivery %, Total Orders
 
-### 2. Tesla Stock Price Dashboard
+Outcome:
+Provides insights to improve logistics decisions, enhance delivery speed, and reduce delays.
 
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Tesla%20Stock%20Price/Sceenshots/Tesla%20Analytics%20Image.PNG" alt="SS 2"/>
+🔹 2. Tesla Stock Price Analysis Dashboard
 
-### 3. UT Mart Sales Analytics Dashboard
+Objective:
+Visualize Tesla’s stock trends over time to identify market movement, volatility and investment patterns.
 
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/UT%20Mart%20Sales%20Analytics/Screenshots/UT%20Mart%20Sales%20PNG.PNG" alt="SS 3"/>
+Key Highlights:
 
+Daily/Monthly closing price trends
 
+Moving averages & volatility tracking
 
-## What I Learnt in Tableau :
+Volume vs price relationship
 
+Peak/low price identification
 
+YoY and MoM trend comparison
 
-  - To Create 3 interactive dashboards and publish it online to share
+Outcome:
+Helps investors understand historical performance, detect patterns, and make data-driven investment decisions.
 
-  - Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
+🔹 3. UT Mart Sales Dashboard
 
-  - To Create a variety of charts including bar charts, line charts, donut charts, maps, tables and dual axis charts.
+Objective:
+Evaluate retail sales performance across products, regions, and customer categories.
 
-  - To Create calculated fields including developing IF Statements.
+Key Highlights:
 
-  - To Create sets, hierarchies and groups.
+Sales vs Profit analysis
 
-  - Understood how joins work.
+Top-performing products & categories
 
-  - Understood Level Of Detail calculations.
+Region-wise revenue contribution
 
-  - To Create Parameters
+Discount impact on profitability
 
-  - Understood how to make use of the analytics pane including using trend lines
+KPIs like Total Sales, Profit Margin, Average Order Value
 
-  - Understood how to use dashboard actions and create interactive dashboards.
+Outcome:
+Supports decision-making for pricing, product strategy, and improving store profitability.
 
-  - Learnt creating a dashboard which updates daily via google sheets.            
+📂 Files Included
+File	Description
+.twbx / .twb	Tableau workbook files
+datasets/	Raw and cleaned data used for analysis
+screenshots/	Dashboard previews
+readme.md	Documentation for portfolio
+🛠️ Tools & Skills Used
 
-  
-  
+Tableau Desktop
+
+Data Cleaning & ETL
+
+Joins, Blending, Relationships
+
+Calculated Fields, Parameters, LOD
+
+Dual Axis, Filters, Actions, Drill-downs
